@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gameProjects/gameJams", {data:[{}],fetch:{},mutations:void 0});
