@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gameProjects/AWS_no", {data:[{}],fetch:{},mutations:void 0});
